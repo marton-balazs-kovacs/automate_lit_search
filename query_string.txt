@@ -1,1 +1,1 @@
-(preregistered OR preregister OR preregistration OR pre-registered OR pre-register OR pre-registration) AND (OSF OR aspredicted)
+(preregistered OR preregister OR preregistration OR pre-registered OR pre-register OR pre-registration) AND (osf* OR aspredicted*)
